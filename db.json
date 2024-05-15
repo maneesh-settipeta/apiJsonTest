@@ -1,0 +1,25 @@
+{
+    "car":[
+        {
+            "model":"Baleno",
+            "year":"2020",
+            "type":"Hatchback"
+
+        },
+        {
+            "model":"Creta",
+            "year":"2020",
+            "type":"SUV"
+
+        },
+        {
+            "model":"City",
+            "year":"2020",
+            "type":"Sedan"
+
+        }
+    ]
+    
+    
+    
+}
