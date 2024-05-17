@@ -2,24 +2,21 @@
     "car":[
         {
             "model":"Baleno",
-            "year":"2020",
-            "type":"Hatchback"
+            "year":"12/12/2020",
+            "type":"Hatchback",
+            "id":"20202j"
 
         },
         {
             "model":"Creta",
-            "year":"2020",
+            
             "type":"SUV"
 
         },
         {
             "model":"City",
-            "year":"2020",
+            "year":"05/22/2022",
             "type":"Sedan"
-
         }
     ]
-    
-    
-    
 }
